@@ -49,16 +49,21 @@ head(y)
 tail(y)
 str(y)
 
-
-
-
-
 ```
 
 
 
 + Muestra los nombres de las filas y las columnas (rownames, colnames)
 
+```{r}
+
+rownames(x)
+colnames(x)
+
+rownames(y)
+colnames(y)
+
+```
 
 + Usa la función intersect y almacena en la variable commonAnimals los aminales que aparezcan en ambos conjuntos
 
