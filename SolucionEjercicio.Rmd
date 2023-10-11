@@ -3,8 +3,8 @@ title: "Solucion Ejercicio. Análisis Exploratorio de Datos"
 author: "Isaac Martí García"
 date: "2023-10-11"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -32,6 +32,28 @@ data('Animals2')
 + Usa las funciones dim, head, tail, str para una primera visión de los conjuntos de datos.
 
 
+```{r}
+
+x <- mammals
+print(x)
+dim(x)
+head(x)
+tail(x)
+str(x)
+
+
+y <- Animals2
+print(y)
+dim(y)
+head(y)
+tail(y)
+str(y)
+
+
+
+
+
+```
 
 
 
