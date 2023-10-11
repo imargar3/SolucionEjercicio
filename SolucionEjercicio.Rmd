@@ -1,6 +1,6 @@
 ---
-title: "SolucionEjercicio"
-author: "Isaac Marti"
+title: "Solucion Ejercicio. Análisis Exploratorio de Datos"
+author: "Isaac Martí García"
 date: "2023-10-11"
 output:
   pdf_document: default
