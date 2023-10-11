@@ -1,3 +1,3 @@
 # Declaro variables
-x <- 555
+x <- 55
 y <- 33
